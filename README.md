@@ -1,2 +1,1 @@
-# CHSC-Pages
-CHSC-Pages
+# CHSC Pages
